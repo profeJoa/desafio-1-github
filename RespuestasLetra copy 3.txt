@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: S
+Nombre: Sebastian
+País: Suecia
+Animal: Serval
+Color: Sardina
+Objeto: Sueter
+Comida: Sopa
