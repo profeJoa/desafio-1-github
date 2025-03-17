@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: s
+Nombre:samuel
+País:sumapaz
+Animal:sancudo
+Color:salmon
+Objeto:salchicha
+Comida:salchichon
