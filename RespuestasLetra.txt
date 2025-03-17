@@ -1,7 +1,7 @@
-Letra: A
-Nombre: sfsf
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra:  J
+Nombre: Juan
+País: Jordania
+Animal: Jabia
+Color: Jazmin
+Objeto: Jade
+Comida: Jugo

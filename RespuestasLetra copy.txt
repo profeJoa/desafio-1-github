@@ -1,0 +1,7 @@
+Letra:  S
+Nombre: Sara
+País: Suiza
+Animal: Sapo
+Color: Jazmin
+Objeto: 
+Comida: Jugo
