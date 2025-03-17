@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: JU
+Nombre: Juana
+País:Japon
+Animal: Jabali
+Color: Jade
+Objeto: Joya
+Comida: Jugo
