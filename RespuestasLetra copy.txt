@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: j
+Nombre: jonatan
+País: japon
+Animal: jaguar
+Color: jade
+Objeto: jarron
+Comida: jamon
