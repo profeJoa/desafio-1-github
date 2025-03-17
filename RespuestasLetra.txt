@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra:A
+Nombre:Anamaria
+País:Argentina
+Animal:Avestruz
+Color:Amarrillo
+Objeto:Ariete
+Comida:Arroz
