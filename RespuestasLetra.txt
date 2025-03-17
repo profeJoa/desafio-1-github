@@ -1,5 +1,5 @@
-Letra:
-Nombre:
+Letra: A
+Nombre: 
 País:
 Animal:
 Color:
