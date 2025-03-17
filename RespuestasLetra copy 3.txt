@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: C
+Nombre: Carlos
+País: Colombia
+Animal: Canguro
+Color: Cobre
+Objeto: Carro
+Comida: Choclo
