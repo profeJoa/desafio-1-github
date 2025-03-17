@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: C
+Nombre: Camilo
+País: Colombia
+Animal: Caballo
+Color: Café
+Objeto: Cámara
+Comida: Cacao
