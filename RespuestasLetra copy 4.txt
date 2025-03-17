@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: R
+Nombre:Robert
+País:Russia
+Animal:Rabbit
+Color:Red
+Objeto:Radio
+Comida:Rice
