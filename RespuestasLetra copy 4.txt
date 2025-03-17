@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: S
+Nombre: Sara
+País: Servia
+Animal: Serpiente
+Color: Servia
+Objeto: Sudadera
+Comida: Salmon
