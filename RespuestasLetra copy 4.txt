@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: S
+Nombre: SANDRA
+País: SUECIA
+Animal: SERPIENTE
+Color: SALMON
+Objeto: SECADOR
+Comida: SANDIA
