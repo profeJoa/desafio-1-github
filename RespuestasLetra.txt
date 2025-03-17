@@ -1,7 +1,7 @@
 Letra: A
-Nombre: 
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Nombre: Andres
+País: Alemania
+Animal: Avestruz
+Color: Azul
+Objeto: Audifono
+Comida: Arroz
