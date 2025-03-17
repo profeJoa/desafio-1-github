@@ -1,7 +1,7 @@
-Letra: 
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: C
+Nombre: Camilo 
+País: Chile
+Animal:Conejo
+Color: Celeste
+Objeto: Cuchara
+Comida: Ceviche
