@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: c
+Nombre: carlos
+País: colombia
+Animal: caballo
+Color: celeste
+Objeto: cepillo
+Comida: compota
