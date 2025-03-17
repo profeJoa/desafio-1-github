@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: A
+Nombre: Ana
+País: Alemania
+Animal: Aguila
+Color: Azul
+Objeto: Arco
+Comida: Arroz

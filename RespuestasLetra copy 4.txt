@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: S
+Nombre: Sara
+País: Suecica
+Animal: SALAMANCA
+Color: Salomon
+Objeto: Silla
+Comida: Sandia
