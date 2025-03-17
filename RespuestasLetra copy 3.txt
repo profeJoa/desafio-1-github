@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra:c
+Nombre:camilo
+País:camerun
+Animal:cabra
+Color:cafe
+Objeto:camion
+Comida:camarones
