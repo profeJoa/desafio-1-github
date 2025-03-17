@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: r
+Nombre: Richard
+País: Russia
+Animal: Rabbit
+Color: Red
+Objeto: Ring 
+Comida: Rice
