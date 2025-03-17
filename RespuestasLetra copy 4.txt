@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra:r
+Nombre:ramon
+País:rumania
+Animal:rinoceronte
+Color:rojo
+Objeto:reloj
+Comida:repollo
