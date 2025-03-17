@@ -1,5 +1,5 @@
-Letra:
-Nombre:
+Letra: A
+Nombre: sfsf
 País:
 Animal:
 Color:
