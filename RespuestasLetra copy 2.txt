@@ -1,7 +1,7 @@
 Letra: s
 Nombre:samuel
-País:sumapaz
-Animal:sancudo
+País:suecia
+Animal:serpiente
 Color:salmon
-Objeto:salchicha
+Objeto:saco
 Comida:salchichon
