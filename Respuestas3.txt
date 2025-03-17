@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: S
+Nombre: Sofia 
+País: Suecia
+Animal: Sapo
+Color: Salmon
+Objeto: Sombrero
+Comida: Sandia
