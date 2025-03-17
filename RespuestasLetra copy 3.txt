@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra:c
+Nombre: camilo
+País: colombia
+Animal: cucarron
+Color: Cian
+Objeto: Comedor
+Comida: Coco
