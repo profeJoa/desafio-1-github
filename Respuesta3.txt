@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra:S
+Nombre: Santiago
+País: Serbia
+Animal: Serpiente
+Color: Salmón
+Objeto: Silla
+Comida:Sopa
