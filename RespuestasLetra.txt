@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+gLetra: a
+Nombre: andres
+País: angolia
+Animal: ardilla
+Color: amarillo
+Objeto: arcan
+Comida: armidon
