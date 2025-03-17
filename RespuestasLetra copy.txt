@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: A 
+Nombre: Aleja
+País: Alemania
+Animal: Avestruz
+Color: Azul
+Objeto: Arca
+Comida: Arroz
