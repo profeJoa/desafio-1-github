@@ -1,7 +1,7 @@
-Letra: A
-Nombre: Ana
-País: Australia
-Animal: Armadillo
-Color: Amarillo
-Objeto: Anillo
-Comida: Albahaca
+Letra: 
+Nombre:
+País:
+Animal:
+Color:
+Objeto:
+Comida:

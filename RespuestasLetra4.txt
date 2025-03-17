@@ -1,0 +1,7 @@
+Letra: 
+Nombre:
+País:
+Animal:
+Color:
+Objeto:
+Comida:
