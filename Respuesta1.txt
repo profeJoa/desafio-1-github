@@ -1,7 +1,8 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: A
+Nombre: Acevedo
+País: Alemania
+Animal: Avestruz
+Color: Amarillo
+Objeto: Astro
+Comida: Aguacate
+
