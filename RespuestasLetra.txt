@@ -1,7 +1,7 @@
-Letra:
-Nombre:
-País:
-Animal:
-Color:
-Objeto:
-Comida:
+Letra: A
+Nombre: Ana
+País: Argentina
+Animal: Ardilla
+Color: Azul
+Objeto: Almohada
+Comida: Arroz
