@@ -1,6 +1,6 @@
 Letra: S
 Nombre: Sara
-País:Suevia
+País:Suecia
 Animal:Serpiente
 Color:Salmon
 Objeto:Silla
